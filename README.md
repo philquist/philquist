@@ -26,10 +26,10 @@ Music / Emerging Tech / AI
 ## 📈 GitHub Stats
 
 ![Philquist's GitHub stats](https://github-readme-stats.vercel.app/api?username=philquist&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philquist&layout=compact&theme=radical)
 
 
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philquist)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/philquist)
+
