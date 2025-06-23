@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-Music / Emerging Tech / AI
+AI / Emerging Tech / Music
 
 - 💼 Agent / Investor
 - 👨🏾‍🏫 Board Member / Advisor: Forbes 30 Under 30 Board, MusiCares, Save The Music, Harlem Lacrosse 
