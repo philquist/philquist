@@ -10,7 +10,7 @@ AI / Emerging Tech / Music / Entertainment / Media
 - 👨🏾‍🏫 Board Member / Advisor: Forbes 30 Under 30 Board, MusiCares, Save The Music, Harlem Lacrosse 
 - 🌱 Currently learning everything I can about coding and AI
 - 🎬 Expertise in music, entertainment, media
-- 💬 Open to any and all suggestions  
+- 💬 Open to any and all suggestions   
 - 📫 How to reach me: [phil@philquist.com](mailto:phil@philquist.com)
 
 
