@@ -2,7 +2,7 @@
 
 
 
-## 🚀 About Me 
+## 🚀 About Me  
 
 AI / Emerging Tech / Music / Entertainment / Media  
 
