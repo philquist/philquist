@@ -1,7 +1,6 @@
 # Hi there, I'm PQ! 👋  
 
 
-
 ## 🚀 About Me   
 
 AI / Emerging Tech / Music / Entertainment / Media  
