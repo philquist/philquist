@@ -3,10 +3,10 @@
 
 ## 🚀 About Me   
 
-AI / Emerging Tech / Music / Entertainment / Media  
+AI / Emerging Tech / Music / Entertainment / Media
 
 - 💼 Agent / Investor
-- 👨🏾‍🏫 Board Member / Advisor: Forbes 30 Under 30 Board, MusiCares, Save The Music, Harlem Lacrosse 
+- 👨🏾‍🏫 Board Member / Advisor: Forbes 30 Under 30 Board, Smithsonian Museum of African Art, MusiCares, Save The Music, Harlem Lacrosse 
 - 🌱 Currently learning everything I can about coding and AI
 - 🎬 Expertise in music, entertainment, media
 - 💬 Open to any and all suggestions   
