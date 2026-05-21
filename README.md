@@ -1,11 +1,11 @@
-# Hi there, I'm PQ! 👋  
+# Hi there, I'm PQ! 👋 
 
 
 ## 🚀 About Me   
 
 AI / Emerging Tech / Music / Entertainment / Media / Sports
 
-- 💼 Agent / Investor
+- 💼 Executive / Investor (Former Agent)
 - 👨🏾‍🏫 Board Member / Advisor: Forbes 30 Under 30 Board, Smithsonian Museum of African Art, MusiCares, Save The Music, Harlem Lacrosse 
 - 🌱 Currently learning everything I can about coding and AI
 - 🎬 Expertise in music, entertainment, media and sports
